@@ -5,3 +5,4 @@ I add this line in branch "master and dev".
 I add this line in branch "master and newb".
 I add this line in branch "master and delete".
 I add this line in branch "master".
+[master] happy
