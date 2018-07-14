@@ -7,3 +7,4 @@ I add this line in branch "master and delete".
 I add this line in branch "master".
 [master] happy
 [bff]No happy
+[bff]Are you happy
